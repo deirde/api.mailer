@@ -2,7 +2,7 @@
 
 ## Specs
 
-A general e-mail transport API, written in Python - Flask.
+A general e-mail transport API, written in Python Flask.
 <br/>
 <br/>
 Features provided:
