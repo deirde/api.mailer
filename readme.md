@@ -2,7 +2,7 @@
 
 ## Specs
 
-A general e-mail transport API, written in Python Flask.
+A general email transport API, written in Python Flask.
 <br/>
 <br/>
 Features provided:
@@ -13,7 +13,7 @@ Features provided:
         Unlimited mailing lists and newsletters
     </li>
     <li>
-        Remote MX check for e-mail validation
+        Remote MX check for email validation
     </li>
     <li>
         Multiple attachments
@@ -22,7 +22,7 @@ Features provided:
         Custom SMTP
     </li>
     <li>
-        Scheduled e-mails overtime
+        Scheduled send
     </li>
     <li>
         Controllable delivery options
@@ -43,6 +43,6 @@ Features provided:
         Deliverability logs
     </li>
     <li>
-        E-mail crawling (still in progress)
+        Email crawling (still in progress)
     </li>
 </ul>
