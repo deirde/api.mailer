@@ -1,15 +1,13 @@
-# API.EMAIL.WEBFORYOU.TV #
+# API.MAILER
 
-Please note, this API is still under development.
+## Specs
+
+A general e-mail transport API, written in Python - Flask.
 <br/>
 <br/>
-Specs
------
-A general e-mail transport API, written in Python.
-<br/>
-<br/>
-This API aims to schedule and send a large number of e-mails and to make available the standard mailing list features, like:
+Features provided:
 </br>
+
 <ul>
     <li>
         Unlimited mailing lists and newsletters
@@ -33,28 +31,21 @@ This API aims to schedule and send a large number of e-mails and to make availab
         User controllable delivery options
     </li>
     <li>
-        Personalized tags in email message, @TODO
+        Personalized tags in email message (still in progress)
     </li>
     <li>
-        Multi-lingual support, @TODO
+        Multi-lingual support (still in progress)
     </li>
     <li>
         Delivery reports
     </li>
     <li>
-        Built-in unsubscribe features, @TODO
+        Built-in unsubscribe features (still in progress)
     </li>
     <li>
-        Easy-to-use tracking system
+        Deliverability logs
     </li>
     <li>
-        Easy-to-read logs
-    </li>
-    <li>
-        E-mail crawling, @TODO
+        E-mail crawling (still in progress)
     </li>
 </ul>
-
-Usage
------
-@TODO
