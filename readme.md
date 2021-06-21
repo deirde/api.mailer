@@ -13,22 +13,19 @@ Features provided:
         Unlimited mailing lists and newsletters
     </li>
     <li>
-        Send e-mail from everywhere
-    </li>
-    <li>
         Remote MX check for e-mail validation
     </li>
     <li>
-        One or more attachments
+        Multiple attachments
     </li>
     <li>
-        Use a custom SMTP
+        Custom SMTP
     </li>
     <li>
         Scheduled e-mails overtime
     </li>
     <li>
-        User controllable delivery options
+        Controllable delivery options
     </li>
     <li>
         Personalized tags in email message (still in progress)
@@ -40,7 +37,7 @@ Features provided:
         Delivery reports
     </li>
     <li>
-        Built-in unsubscribe features (still in progress)
+        Built-in unsubscribe (still in progress)
     </li>
     <li>
         Deliverability logs
